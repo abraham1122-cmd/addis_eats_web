@@ -19,7 +19,7 @@ import { ThemeProvider, useTheme } from "./theme/themeContext";
 
 // import CartDrawer from "./cart/cartDrawer";
 // import CartDrawer from "./cart/cartDrawer";
-import CartDrawer from "./cart/cartDrawer";
+import CartDrawer from "./Cart/cartDrawer";
 
 import {CheckoutSkeleton} from "./skeleton";
 
