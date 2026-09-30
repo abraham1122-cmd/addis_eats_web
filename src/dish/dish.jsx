@@ -7,7 +7,8 @@ import PropTypes from "prop-types";
 
 import useCartStore from "../Cart/cartStore";
 
-import DishModal from "../components/Modal";
+// import DishModal from "../components/Modal";
+import DishModal from "../components/modal";
 import {useRef, useState } from "react";
 
 import useFavoritesStore from "../favorites/favoritesStore";
