@@ -1,0 +1,96 @@
+
+
+[
+
+    {
+        "id": "01", 
+        "name": "tibs",
+        "price": 700,
+        "category": "Habesha Food",
+         "image": "/images/tibs.png",
+        "spicy": true,
+        "description": "tibs is most popula food",
+        "ingredients": [ "meat", "oil/kibe", "salt"],
+        "isAvailable": "true"
+        
+    },
+   {
+    "id": "02",
+    "name": "Aynet",
+    "price": 200,
+    "category": "Habesha Food",
+    
+    "description": "aynet is simple and normal food",
+    "image": "/images/aynet.jpg",
+    "spicy": false,
+    "ingredients": ["potato", "cabage"],
+     "isAvailable": "true"
+
+   },
+   {
+    "id": "03",
+    "name": "pizza",
+    "price": 500,
+    "category": "Pizza",
+    "image": "/images/chickenpizza.jpg",
+    "spicy": false,
+    "description": "pizza is very delicious one",
+    "ingredients": ["tomato", "kita"],
+     "isAvailable": "true"
+
+
+   },
+   {
+    "id": "04",
+    "name": "burger",
+    "price": 700,
+    "category": "Burger",
+    "image": "/images/spicybeefburger.jpg",
+    "spicy": false,
+     "isAvailable": "true"
+   },
+
+
+   {
+    "id": "05",
+    "name": "salad",
+    "price": 800,
+    "category": "Vegetarian",
+    "image": "/images/greensalad.jpg",
+    "spicy": false,
+     "isAvailable": "true"
+   },
+
+
+   {
+    "id": "06",
+    "name": "chicken burger",
+    "price": 1000,
+    "category": "Burger",
+    "image": "/images/classicburger.jpg",
+    "spicy": false,
+     "isAvailable": "true"
+   },
+   {
+    "id": "07",
+    "name": "Dorowat",
+    "price": 6000,
+    "category": "Habesha Food",
+    "image": "/images/dorowat.jpg",
+    "spicy": true,
+     "isAvailable": "true"
+   },
+
+
+   {
+    "id": "08",
+    "name": "shiro",
+    "price": 300,
+    "category": "Habesha Food",
+    "image": "/images/shiro.jpg",
+    "spicy": false,
+     "isAvailable": "true"
+   }
+]
+
+
